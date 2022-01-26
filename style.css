@@ -1,0 +1,9 @@
+html {
+box-sizing: border-box; /* sprecava da padding dodaje extra dodatak na sirinu i visinu   */
+
+}
+body {
+    margin: 0;
+    nim-height: 100vh; /* vh view height celog prozora, uvek da bude sadrzaj po celom prozoru */
+    background: dodgerblue;
+}
